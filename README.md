@@ -14,8 +14,8 @@ This repository collects short, verifiable records of contributions I made to mu
 |---|---:|---|
 | MergeShip | [#804](contributions/mergeship.md) | Prevented unauthorized help-requests by enforcing recommendation ownership and typed errors.
 | Uni-Event | [#427](contributions/uni-event.md) | Added email template test & preview flows to reduce mail regressions.
-| Mind-Mitra | [#125](contributions/mind-mitra-c1.md) | Stabilized startup path with Pydantic models and safer SMS helpers.
-| Mind-Mitra | [#126](contributions/mind-mitra-c2.md) | Integrated global toast notifications for frontend success and error feedback.
+| Mind-Mitra | [#125](contributions/mind-mitra.md) | Stabilized startup path with Pydantic models and safer SMS helpers.
+| Mind-Mitra | [#126](contributions/localmind-c2.md) | Integrated global toast notifications for frontend success and error feedback.
 | LocalMind | [#1016](contributions/localmind-c1.md) | Strengthened build/deploy validation to prevent bad releases.
 | LocalMind | [#1025](contributions/localmind-c3.md) | Added embeddings cache warmup guidance to reduce cold-start latency.
 | LocalMind | [#1033](contributions/localmind-c4.md) | Documented citation-merging and added validation tests to avoid data drift.
