@@ -34,22 +34,17 @@ This repository collects short, verifiable records of contributions I made to mu
 
 - `contributions/*.md` — Contribution write-ups (short, impact-focused).  
 - `contributions/README.md` — Index for the contribution files.  
-- `backend/tests/` — Examples of regression tests referenced by some write-ups.  
-- (Project-specific files live in original repositories; these summaries point to the PRs and test artifacts.)
+- (Project-specific source code and `backend/tests/` live in original repositories; these write-ups link directly to the PRs and test artifacts.)
 
 ## Quick evaluation checklist
 
 1. Open a write-up (e.g., [mergeship.md](contributions/mergeship.md)): look for the problem, code/files changed, and tests added.  
 2. Review the linked PR diff for implementation details.  
-3. Optionally, run the referenced tests in `backend/tests` to reproduce the validation locally.
+3. Check the referenced test files in the upstream repositories to see validation patterns.
 
 ## Key takeaways
 
 - I deliver small, high-leverage changes that improve safety, reliability, and deployability.  
 - I pair code changes with tests and documentation so improvements remain verifiable over time.  
 - Contributions emphasize maintainability and operator experience, not just feature delivery.
-
----
-
-If you want a one-page summary or a short walkthrough for interview preparation, tell me which write-up to expand on.
 
