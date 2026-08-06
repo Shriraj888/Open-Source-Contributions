@@ -3,6 +3,7 @@
 This folder contains individual contribution write-ups. Each file documents the problem, the change, tests added, and the impact.
 
 Files:
+- innnerhue.md
 - mergeship.md
 - uni-event.md
 - mind-mitra.md
