@@ -12,6 +12,7 @@ This repository collects short, verifiable records of contributions I made to mu
 
 | Project | PR | One-line impact |
 |---|---:|---|
+| CodeGraphContext | [#1629](contributions/codegraphcontext.md) | Fixed anonymous JS/TS callback attribution so call graphs keep the correct enclosing function context. |
 | InnerHue | [#352](contributions/innnerhue.md) | Made navigation sticky across pages and fixed the contributors page JSX issue during review. |
 | MergeShip | [#804](contributions/mergeship.md) | Prevented unauthorized help-requests by enforcing recommendation ownership and typed errors.
 | Uni-Event | [#427](contributions/uni-event.md) | Added email template test & preview flows to reduce mail regressions.

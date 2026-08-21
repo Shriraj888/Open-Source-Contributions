@@ -6,7 +6,7 @@ InnerHue is an open-source mental wellness and self-discovery platform with mult
 **Pull Request:** [#352](https://github.com/Nitya-003/InnerHue/pull/352)  
 **Status:** Merged (August 5, 2026)  
 **Role:** Contributor  
-**Contribution Program:** Contributed under SSoC26
+**Contribution Program:** Contributed under SSoC Season 5 (Social Summer of Code)
 
 ## Overview
 This contribution made the navigation header sticky across InnerHue so users can access navigation actions without scrolling back to the top of each page. The update also applied a consistent glassmorphic treatment to the header so the fixed navigation blended cleanly with the app’s visual style.
