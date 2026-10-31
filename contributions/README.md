@@ -6,6 +6,7 @@ Files:
 - codegraphcontext.md
 - innnerhue.md
 - mergeship.md
+- kestra-aws-plugin.md
 - uni-event.md
 - mind-mitra.md
 - localmind-c1.md

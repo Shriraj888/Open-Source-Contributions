@@ -15,6 +15,7 @@ This repository collects short, verifiable records of contributions I made to mu
 | CodeGraphContext | [#1629](contributions/codegraphcontext.md) | Fixed anonymous JS/TS callback attribution so call graphs keep the correct enclosing function context. |
 | InnerHue | [#352](contributions/innnerhue.md) | Made navigation sticky across pages and fixed the contributors page JSX issue during review. |
 | MergeShip | [#804](contributions/mergeship.md) | Prevented unauthorized help-requests by enforcing recommendation ownership and typed errors.
+| Kestra AWS Plugin | [#842](contributions/kestra-aws-plugin.md) | Persisted Kinesis shard positions to prevent duplicate records and missed records between polls. |
 | Uni-Event | [#427](contributions/uni-event.md) | Added email template test & preview flows to reduce mail regressions.
 | Mind-Mitra | [#125](contributions/mind-mitra.md) | Stabilized startup path with Pydantic models and safer SMS helpers.
 | Mind-Mitra | [#126](contributions/localmind-c2.md) | Integrated global toast notifications for frontend success and error feedback.
@@ -49,4 +50,3 @@ This repository collects short, verifiable records of contributions I made to mu
 - I deliver small, high-leverage changes that improve safety, reliability, and deployability.  
 - I pair code changes with tests and documentation so improvements remain verifiable over time.  
 - Contributions emphasize maintainability and operator experience, not just feature delivery.
-
